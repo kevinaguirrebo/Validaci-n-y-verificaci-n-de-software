@@ -4,6 +4,8 @@ package proy_dosvectores;
 import javax.swing.JOptionPane;
 
 public class Proy_DosVectores {
+    
+    // comenta la lineas.
 
     static double [] A = new double [4];
     static double [] B = new double [8];
